@@ -68,7 +68,7 @@ Looking at the task, my approch was start forward to create a
    # Sample_Output 
      https://github.com/Jatin-Repository/Almabase_Task/blob/master/screen_shot/Input_Output.pdf
      
-    # Code Execution:
+   # Code Execution:
       In order to excute code:
       1) Place the sample input in **input.txt** file or place the other file after converting into txt and rename it to **input.txt**.
       2) Run the class **InputFileImpementation** to get the desired output.
