@@ -13,4 +13,18 @@ Looking at the task, my approch was start forward to create a
     v)    Now finally, after taking entries dictionary keys as input to list2, taking two Profile object x and y for two profile at a time to 
           checked_dupilcates among two and iteratively over all the possible combinations, with the help of method **check_duplicate(x, y)** 
           The ouput of the method is list where **[score,[matched_attribute],[non_matched_attribute],[skiped_attribute]]**
+          
+  # Sample Input : 1
+    
+      profile 1 - { id: 1, email: 'knowkanhai@gmail.com', first_nam
+      e: ‘Kanhai’, last_name: ‘Shah’, class_year: 2012, date_of_birt
+      h: ’1990-10-11’, }
+      profile 2 - { id: 2, email: 'knowkanhai@gmail.com', first_nam
+      e: ‘Kanhai1’, last_name: ‘Shah’, class_year: 2012, date_of_bir
+      th: ’1990-10-11’}
+      
+   # Sample Output : 1
+     
+      ![alt text](https://github.com/Jatin-Repository/Almabase_Task/blob/master/screen_shot/Sample_Output_1.pdf)
+
         
