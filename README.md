@@ -65,7 +65,7 @@ Looking at the task, my approch was start forward to create a
      first_name: ‘Jatin’, last_name: ‘Singh500’, class_year: 202
      2, date_of_birth: ’1990-10-11’}
      
-   # Sample_Output 
+   # Sample_Output :
      https://github.com/Jatin-Repository/Almabase_Task/blob/master/screen_shot/Input_Output.pdf
      
    # Code Execution:
