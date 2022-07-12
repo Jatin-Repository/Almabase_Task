@@ -1,0 +1,12 @@
+profile 1 - { id: 1, email: 'knowkanhai@gmail.com', first_nam
+e: ‘Kanhai’, last_name: ‘Shah’, class_year: None, date_of_birt
+h: None}
+profile 2 - { id: 2, email: 'knowkanhai+donotcompare@gmail.co
+m', first_name: ‘Kanhai1’, last_name: ‘Shah’, class_year: 201
+2, date_of_birth: ’1990-10-11’}
+profile 3 - { id: 5, email: 'jatindeepsingh500@gmail.co
+m', first_name: ‘Jatin15’, last_name: ‘Singh’, class_year: 200
+2, date_of_birth: ’1997-02-05’}
+profile 4 - { id: 9, email: 'jatideep500@mail.com",
+first_name: ‘Jatin’, last_name: ‘Singh500’, class_year: 202
+2, date_of_birth: ’1990-10-11’}
