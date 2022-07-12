@@ -24,7 +24,7 @@ Looking at the task, my approch was start forward to create a
       th: ’1990-10-11’}
       
    # Sample Output: 1
-     https://github.com/Jatin-Repository/Almabase_Task/blob/master/screen_shot/Sample_Output_1.pdf
+      https://github.com/Jatin-Repository/Almabase_Task/blob/master/screen_shot/Sample_Output_1.pdf
      
 
         
