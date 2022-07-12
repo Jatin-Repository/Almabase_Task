@@ -25,6 +25,6 @@ Looking at the task, my approch was start forward to create a
       
    # Sample Output : 1
      
-      "(https://github.com/Jatin-Repository/Almabase_Task/blob/master/screen_shot/Sample_Output_1.pdf)"
+      <a href="https://github.com/Jatin-Repository/Almabase_Task/blob/master/screen_shot/Sample_Output_1.pdf" target="_blank">Saple_Output_1</a>
 
         
