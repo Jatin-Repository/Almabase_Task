@@ -1,5 +1,5 @@
 # Almabase_Task
-## Looking at the task, my approch was start forward to create a 
+Looking at the task, my approch was start forward to create a 
   1) class of **Profile**
   2) I have consider input as txt file (input) and later under **InputFileImpementation class**
      i)   created method **read_input_file** I converted whole input file as string
